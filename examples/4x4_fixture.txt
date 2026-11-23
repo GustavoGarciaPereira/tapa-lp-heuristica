@@ -1,0 +1,6 @@
+# 4x4_fixture — solução única verificada
+4 4
+. . 1,2 2
+. 7 . .
+. . . 5
+2 4 . .

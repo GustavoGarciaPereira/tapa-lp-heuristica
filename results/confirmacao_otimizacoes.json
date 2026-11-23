@@ -1,0 +1,32 @@
+[
+  {
+    "variante": "A base",
+    "resolvidos": 170,
+    "total": 180,
+    "gabarito": 170,
+    "tempo_s": 129.0,
+    "nos": 699,
+    "bt": 293,
+    "pls": 8363
+  },
+  {
+    "variante": "C otimizada (fluxo no LP)",
+    "resolvidos": 173,
+    "total": 180,
+    "gabarito": 173,
+    "tempo_s": 112.7,
+    "nos": 679,
+    "bt": 297,
+    "pls": 7261
+  },
+  {
+    "variante": "D otimizada (sem fluxo no LP)",
+    "resolvidos": 180,
+    "total": 180,
+    "gabarito": 180,
+    "tempo_s": 56.3,
+    "nos": 799,
+    "bt": 388,
+    "pls": 7894
+  }
+]

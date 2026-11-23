@@ -1,0 +1,79 @@
+{
+  "por_metodo": [
+    {
+      "Método": "Determinístico",
+      "Execuções": 833,
+      "Resolvidos": 736,
+      "Taxa": "88.4%",
+      "Tempo total (s)": 481.7,
+      "Nós (soma)": 68906,
+      "Backtracks (soma)": 60371,
+      "Chamadas PL": 0,
+      "Nós médios (ok)": 46.5
+    },
+    {
+      "Método": "PL + 1ª célula",
+      "Execuções": 833,
+      "Resolvidos": 396,
+      "Taxa": "47.5%",
+      "Tempo total (s)": 1626.9,
+      "Nós (soma)": 2709,
+      "Backtracks (soma)": 946,
+      "Chamadas PL": 97124,
+      "Nós médios (ok)": 4.8
+    },
+    {
+      "Método": "PL + mais fracionária",
+      "Execuções": 833,
+      "Resolvidos": 387,
+      "Taxa": "46.5%",
+      "Tempo total (s)": 1674.1,
+      "Nós (soma)": 2766,
+      "Backtracks (soma)": 1036,
+      "Chamadas PL": 100677,
+      "Nós médios (ok)": 4.5
+    },
+    {
+      "Método": "PL + mais restringida",
+      "Execuções": 833,
+      "Resolvidos": 408,
+      "Taxa": "49.0%",
+      "Tempo total (s)": 1614.6,
+      "Nós (soma)": 2404,
+      "Backtracks (soma)": 716,
+      "Chamadas PL": 96145,
+      "Nós médios (ok)": 4.0
+    }
+  ],
+  "por_porte": [
+    {
+      "Método": "Determinístico",
+      "pequeno": "191/192",
+      "médio": "463/503",
+      "grande": "80/119",
+      "extragrande": "2/19"
+    },
+    {
+      "Método": "PL + 1ª célula",
+      "pequeno": "160/192",
+      "médio": "207/503",
+      "grande": "29/119",
+      "extragrande": "0/12"
+    },
+    {
+      "Método": "PL + mais fracionária",
+      "pequeno": "157/192",
+      "médio": "200/503",
+      "grande": "30/119",
+      "extragrande": "0/12"
+    },
+    {
+      "Método": "PL + mais restringida",
+      "pequeno": "160/192",
+      "médio": "217/503",
+      "grande": "31/119",
+      "extragrande": "0/12"
+    }
+  ],
+  "total": 3332
+}

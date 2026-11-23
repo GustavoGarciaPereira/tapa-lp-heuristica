@@ -1,0 +1,38 @@
+[
+  {
+    "variante": "A base (atual)",
+    "ok": "35/36",
+    "tempo": 18.0,
+    "mediana": 0.172,
+    "nos": 106,
+    "bt": 30,
+    "pls": 1153
+  },
+  {
+    "variante": "B -solve dup +integral",
+    "ok": "35/36",
+    "tempo": 17.3,
+    "mediana": 0.118,
+    "nos": 97,
+    "bt": 30,
+    "pls": 1141
+  },
+  {
+    "variante": "C +probe perto de pista",
+    "ok": "35/36",
+    "tempo": 14.4,
+    "mediana": 0.121,
+    "nos": 97,
+    "bt": 30,
+    "pls": 964
+  },
+  {
+    "variante": "D iguais C, sem fluxo",
+    "ok": "36/36",
+    "tempo": 6.7,
+    "mediana": 0.051,
+    "nos": 111,
+    "bt": 38,
+    "pls": 1006
+  }
+]
